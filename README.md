@@ -16,7 +16,7 @@ Tool: [DALYs in Indoor Air](https://docs.google.com/spreadsheets/d/1lQxR5frw5s5w
 ### Infection risk of airborne viruses - Wells-Riley model
 An online tool (Google Sheets) to estimate the COVID-19 indoor infection risk through airborne transmission with the Wells-Riley model. 
 
-Tool: [Indoor Airborne Risk COVID-19 Estimator](https://docs.google.com/spreadsheets/d/1xMF5hGuPSDddIIUpt9iV_dvuKdB6T7I8SA3-Z2LCcV0/edit?usp=sharing) (For permission to use it, please [contact with me](mailto:jshen20@syr.edu))
+Tool: [Indoor Airborne Risk COVID-19 Estimator](https://docs.google.com/spreadsheets/d/1xMF5hGuPSDddIIUpt9iV_dvuKdB6T7I8SA3-Z2LCcV0/edit?usp=sharing) (For permission to use it, please [contact with me](mailto:jshen20@syr.edu)) or [a webpage with similar functions](http://www.jialeishen.com/risk)
 
 ### Virus spreading model - SEIR
 A matlab program that simulates the virus spreading among population (considering all possible transmission routes) based on the Susceptible-Exposed-Infectious-Removed (SEIR) model.
